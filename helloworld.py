@@ -1,1 +1,1 @@
-print('Hello world!!')
+print('Welcome to SE2 Coursework')
